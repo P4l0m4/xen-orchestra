@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <template #content> <VmStatus /></template>
+    <template #content><VmStatus /></template>
   </DefaultLayout>
 </template>
 
